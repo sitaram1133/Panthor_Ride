@@ -1,10 +1,10 @@
 # Panthor_Ride
 How to Use
-git clone <url>
+git clone <code>https://github.com/sitaram1133/Panthor_Ride.git</code>
 check python first by
 <code>python3 --version</code>
 
-  #Do this if dont show python version
+ #Do this if dont show python version
 <code>sudo apt-get update</code>
 
 #Python 2
