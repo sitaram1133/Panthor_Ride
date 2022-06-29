@@ -1,4 +1,4 @@
-# Panthor_Ride
+# Bycicle Rideing Parameters 
 How to Use
 git clone <code>https://github.com/sitaram1133/Panthor_Ride.git</code>
 check python first by
